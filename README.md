@@ -1,6 +1,6 @@
 # Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/ella-reiter-9712001a3/)
+[LinkedIn Profile](https://www.linkedin.com/in/ella-reiter-9712001a3/)
 
 ## About Me
 
@@ -60,9 +60,11 @@ Collaborated with professors to design course curriculum and exam prompts
 
 ### Aurora NK ###
 - Designed weekly customized English lesson plans, tailored to North Korean student’s language ability 
-- Increased student’s English proficiency to a level allowing them to receive a scholarship to study English in the US 
+- Increased student’s English proficiency to a level allowing them to receive a scholarship to study English in the US
+  
 ### Business Analyst, Consult Your Community ###
 - Crafted and presented small businesses with actionable recommendations addressing their unique business objectives/problems through semester long projects (skills: data analytics, digital fluency, critical thinking, problems solving)
+
 ### Smith Start Mentor ### 
 - Led approximately 20 freshmen per semester – provided support regarding students’ academic, social, or personal transition 
 - Organized social and professional events encouraging students’ social and professional development – four events a semester
