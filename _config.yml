@@ -1,3 +1,7 @@
 title: Ella Reiter
-logo: /Users/ellareiter/Desktop/Ella's Stuff/Career:Internships/IMG_6388.jpg
+defaults:
+  - scope:
+      path: "" # empty string applies to all files
+    values:
+      image: /Users/ellareiter/Desktop/Ella's Stuff/Career:Internships/IMG_6388.jpg
 theme: jekyll-theme-minimal
