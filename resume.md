@@ -1,3 +1,7 @@
+---
+layout: default
+title: Resume
+---
 ## Education
 
 - **MS: Business Analytics** 
