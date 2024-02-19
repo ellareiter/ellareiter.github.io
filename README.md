@@ -2,10 +2,6 @@
 
 [LinkedIn Profile](https://www.linkedin.com/in/ella-reiter-9712001a3/)
 
-## About Me
-
-I am a results-driven professional with a background in business analytics, programmatic trading, and business consulting. With a Master's degree in Business Analytics from the University of Maryland, Robert H. Smith School of Business, and a Bachelor's degree in International Business with a Minor in Korean, I hope to use analytics and data-driven decision making to create meaningful insights that will help bring people closer together tomorrow. 
-
 ## Education
 
 - **MS: Business Analytics** 
