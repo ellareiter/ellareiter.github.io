@@ -1,3 +1,11 @@
 title: Ella Reiter
 logo: IMG_6388.jpg
 theme: jekyll-theme-minimal
+
+navigation:
+  - title: About Me
+    url: /about
+  - title: Resume
+    url: /resume
+  - title: Portfolio
+    url: /portfolio
